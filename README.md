@@ -15,3 +15,6 @@ while True:
   - goon.bar
   - guilded.lol
   - selfbot.cc
+  
+## Add your own domain
+- Contact `dropoutuwu` on telegram todo so.
