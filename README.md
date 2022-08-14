@@ -10,3 +10,8 @@ while True:
     print(client.wait_for_email(_from="noreply@discord.com"))
     time.sleep(1)
 ```
+
+## Known domains
+  - goon.bar
+  - guilded.lol
+  - selfbot.cc
