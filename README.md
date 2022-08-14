@@ -1,4 +1,4 @@
-# [Asari.gay](https://asari.gay) mail wrapper
+# [Asari.gay](https://asari.gay) tempmail wrapper
 
 ## Example
 ```python
